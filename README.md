@@ -1,2 +1,5 @@
-# University-FAQ-Chatbot-unibot
-UniBot is a simple Python-based University FAQ Chatbot built with Streamlit. It helps students get instant answers to common university-related questions using rule-based keyword matching and a predefined FAQ knowledge base.
+Project Documentation
+
+Detailed documentation covering the project introduction, objectives, system architecture, implementation, features, and working methodology is available in the project documentation.
+
+Please refer to the documentation for a comprehensive understanding of UNIBOT.
